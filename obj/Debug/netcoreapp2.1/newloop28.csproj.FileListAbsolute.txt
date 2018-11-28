@@ -1,0 +1,11 @@
+C:\GITNEW\newgit29\newloop28\bin\Debug\netcoreapp2.1\newloop28.deps.json
+C:\GITNEW\newgit29\newloop28\bin\Debug\netcoreapp2.1\newloop28.runtimeconfig.json
+C:\GITNEW\newgit29\newloop28\bin\Debug\netcoreapp2.1\newloop28.runtimeconfig.dev.json
+C:\GITNEW\newgit29\newloop28\bin\Debug\netcoreapp2.1\newloop28.dll
+C:\GITNEW\newgit29\newloop28\bin\Debug\netcoreapp2.1\newloop28.pdb
+C:\GITNEW\newgit29\newloop28\obj\Debug\netcoreapp2.1\newloop28.csprojAssemblyReference.cache
+C:\GITNEW\newgit29\newloop28\obj\Debug\netcoreapp2.1\newloop28.csproj.CoreCompileInputs.cache
+C:\GITNEW\newgit29\newloop28\obj\Debug\netcoreapp2.1\newloop28.AssemblyInfoInputs.cache
+C:\GITNEW\newgit29\newloop28\obj\Debug\netcoreapp2.1\newloop28.AssemblyInfo.cs
+C:\GITNEW\newgit29\newloop28\obj\Debug\netcoreapp2.1\newloop28.dll
+C:\GITNEW\newgit29\newloop28\obj\Debug\netcoreapp2.1\newloop28.pdb
